@@ -1,0 +1,7 @@
+classes= 6
+train  = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/PedVehiclesTraining/TrainingDataFiles/cocopedveh_2014_train.txt
+valid  = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/PedVehiclesTraining/ValidationDataFiles/cocopedveh_2014_valid.txt
+# ped    = /media/hdl01/dskGT/MSCOCO/COCO2VOC_Train2014/cocoped_ped.txt
+names  = data/cocopedveh.names
+backup = backup
+eval   = cocopedveh

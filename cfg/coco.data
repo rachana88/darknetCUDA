@@ -1,0 +1,13 @@
+classes= 80
+#train  = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/SqueezeYOLOTraining/ImageDataFiles/coco_2014_train.txt
+train = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/StoreTraining/TrainingData/store_2017_train.txt
+
+#valid  = coco_testdev
+#valid = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/SqueezeYOLOTraining/ValidationDataFiles/coco_2014_valid.txt
+valid = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/StoreTraining/ValidationData/store_2017_valid.txt
+#valid = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/StoreTraining/ValidationData_recent/store_2017_valid.txt
+
+names = data/coco.names
+backup = /darknetCUDA/backup/
+eval=coco
+

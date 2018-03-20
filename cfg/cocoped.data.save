@@ -1,0 +1,7 @@
+Xclasses= 2
+train  = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/MultiScaleTraining/HCOCO2VOC_2014/2014_coco2014_train.txt
+valid  = /media/hdl01/dskGT/BW/brainwash_test.idl.txt
+ped    = /media/hdl01/dskGT/MSCOCO/COCO2VOC_Train2014/cocoped_ped.txt
+names  = /home/hdl01/DeepFusion001/DeepFusion/Detection/darknet/data/cocoped.names
+backup = backup
+eval   = cocoped

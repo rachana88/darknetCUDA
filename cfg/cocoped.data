@@ -1,0 +1,12 @@
+classes= 2
+#train = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/StoreTraining/TrainingData/store_2017_train.txt
+valid = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/StoreTraining/ValidationData/store_2017_valid.txt
+#train = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/object_detection/object_2017_train.txt
+train= /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/StoreTraining/training_data_testing_demo/store_2017_train.txt
+
+# valid = /train = /home/deepfusion/Desktop/yolo_v2_copy/v2/yolov2_training/StoreTraining/TrainingData/store_2017_train.txt
+# ped    = /media/hdl01/dskGT/MSCOCO/COCO2VOC_Train2014/cocoped_ped.txt
+#names  = data/coco.names
+names = data/cocoped.names
+backup = backup
+eval   = coco
